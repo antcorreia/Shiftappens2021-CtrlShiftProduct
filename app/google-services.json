@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "42053999060",
+    "firebase_url": "https://databaseshiftappens2021-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "databaseshiftappens2021",
+    "storage_bucket": "databaseshiftappens2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42053999060:android:8921dd2f6b29d7eebe5e41",
+        "android_client_info": {
+          "package_name": "com.example.shiftappens2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42053999060-teunp5m8iugdmm9fs7s49k8rm4ml6n59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtYdGTkMEK8SBPn9Djelbi39UumP1kNm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42053999060-teunp5m8iugdmm9fs7s49k8rm4ml6n59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
